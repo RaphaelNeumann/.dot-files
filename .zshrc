@@ -134,6 +134,6 @@ alias tfa='tf apply'
 alias tfs='tf state'
 alias tfp='tf plan'
 alias 'git merge'='git merge --no-ff'
-
+alias k8s='kubectl'
 
 #RPROMPT='%{$fg[blue]%}($ZSH_KUBECTL_PROMPT)%{$reset_color%}'
